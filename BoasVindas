@@ -61,7 +61,7 @@
 </head>
 <body>
     <div class="welcome-container">
-        <img src="https://via.placeholder.com/150" alt="Logo do Sistema" class="logo">
+        <img src="C:\Avantte\Avantte_Imagens\logo.png" alt="Logo do Sistema" class="logo">
         <h1>Bem-vindo ao Sistema</h1>
         <p>Estamos felizes por você estar aqui. Clique no botão abaixo para começar.</p>
         <button class="enter-button" onclick="enterSystem()">Acessar o Sistema</button>
